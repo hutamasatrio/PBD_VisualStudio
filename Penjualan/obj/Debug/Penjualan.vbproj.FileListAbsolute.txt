@@ -1,0 +1,39 @@
+C:\Users\Jurusan\AppData\Local\Temporary Projects\Penjualan\bin\Debug\Penjualan.exe.config
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\bin\Debug\Penjualan.exe
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\bin\Debug\Penjualan.xml
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\obj\Debug\Penjualan.FormBarang.resources
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\obj\Debug\Penjualan.Resources.resources
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\obj\Debug\Penjualan.vbproj.GenerateResource.Cache
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\obj\Debug\Penjualan.exe
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\obj\Debug\Penjualan.xml
+F:\Ngajar\PBD\2018\Project Penjualan\Penjualan\Penjualan\obj\Debug\Penjualan.pdb
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.exe
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.xml
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.pdb
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.FormBarang.resources
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.FormTransaksi.resources
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.Cari.resources
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.Login.resources
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.Resources.resources
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\obj\Debug\Penjualan.vbproj.GenerateResource.Cache
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\bin\Debug\Penjualan.exe
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+E:\BAHAN AJAR DI AMIKOM\PBD\Project Penjualan\Penjualan\bin\Debug\Penjualan.xml
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\bin\Debug\Penjualan.exe
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\bin\Debug\Penjualan.xml
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.vbprojAssemblyReference.cache
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.FormBarang.resources
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.FormTransaksi.resources
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.Cari.resources
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.Login.resources
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.Resources.resources
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.vbproj.GenerateResource.cache
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.vbproj.CoreCompileInputs.cache
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.exe
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.xml
+D:\17.02.0044\Visual Studio\Project Penjualan\Penjualan\obj\Debug\Penjualan.pdb
